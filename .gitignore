@@ -1,0 +1,6 @@
+# composer vendor dir
+/node_modules
+/.idea
+/.eslintcache
+/README.md
+/build

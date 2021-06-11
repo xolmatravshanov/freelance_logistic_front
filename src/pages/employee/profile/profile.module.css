@@ -1,0 +1,35 @@
+.profileCol {
+    border-radius: 35%
+}
+.profileCard {
+    height: 80vh;
+}
+.profileImg {
+    width: 150px;
+    border-radius: 35%;
+    margin: .5rem 3.5rem;
+}
+.profileMeta {
+    text-align: center;
+    font-weight: bold;
+}
+.profileBorder {
+    border-top: 1px solid #ccc;
+    margin-top: 4vh;
+}
+.profileTitle {
+    font-weight: 500;
+    margin-top: 4vh;
+    color: #000000D9;
+    display: flex;
+}
+.profileOrderCount {
+    color: #008c8c;
+    font-weight: bold;
+    margin-left: 21vh;
+}
+.profileActiveCount{
+    color: #FF2400;
+    font-weight: bold;
+    margin-left: 16vh
+}
